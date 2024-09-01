@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-  <img src="https://pixabay.com/illustrations/developer-programmer-coding-8764523/" width="600" height="300"/>
+  <img src="ai-generated-8775233_1280.png" width="900"/>
 </div>
 
 
