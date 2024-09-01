@@ -11,7 +11,6 @@
     <img src="https://img.shields.io/badge/gmail-gray?style=for-the-badge&logo=gmail" alt="Gmail Badge"/>
   </a>
 </div>
-  
   <img src="https://komarev.com/ghpvc/?username=DmytroSadovskyi&style=flat-square&color=blue" alt=""/>
   <h1>
   hey there
@@ -20,7 +19,7 @@
 </div>
 
 <div align="center">
-  <img src="ai-generated-8775233_1280.png" width="900"/>
+  <img src="ai-generated-8273245_1280.jpg"/>
 </div>
 
 
@@ -29,9 +28,9 @@
 ### :technologist: About Me :
 I am a Frontend Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZydzIxaWJpMWZpYmEyeGxoYXIyOWZybHplcXAzeXN3aTNyeTV6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" width="40"> from Ukraine.
 
-- 
--
--
+- currently I'm improving my skills in Frontend and Backend by learing Next.js, Node.js etc.
+- In the near future, I want to learn SQL and Nest.js
+
 
 ---
 
