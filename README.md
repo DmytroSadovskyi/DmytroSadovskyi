@@ -38,10 +38,11 @@ I am a Frontend Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjE
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
-### My stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmytroSadovskyi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+### :bar_chart: My stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmytroSadovskyi&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
