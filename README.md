@@ -7,7 +7,7 @@
   <a href="https://t.me/DmYtRo_S21">
     <img src="https://img.shields.io/badge/telegram-white?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="dmytro.sadovskyi@gmail.com">
+  <a href="mailto:dmytro.sadovskyi@gmail.com">
     <img src="https://img.shields.io/badge/gmail-gray?style=for-the-badge&logo=gmail" alt="Gmail Badge"/>
   </a>
 </div>
