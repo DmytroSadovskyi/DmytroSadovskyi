@@ -28,8 +28,9 @@
 ### :technologist: About Me :
 I am a Frontend Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZydzIxaWJpMWZpYmEyeGxoYXIyOWZybHplcXAzeXN3aTNyeTV6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" width="40"> from Ukraine.
 
-- currently I'm improving my skills in Frontend and Backend by learing Next.js, Node.js etc.
-- In the near future, I want to learn SQL and Nest.js
+- currently I'm improving my skills in frontend and backend by learing Next.js, Node.js and other technologies
+- in the near future, I plan to learn SQL and Nest.js
+- in my free time, I enjoy reading books, exploring new places and learning more about modern web technologies
 
 
 ---
@@ -47,6 +48,8 @@ I am a Frontend Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjE
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+    <img src=" https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="ViteJS" alt="ViteJS" width="40" height="40"/>&nbsp;
+ 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
 </div>
