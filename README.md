@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-  <img src="ai-generated-8273245_1280.jpg"/>
+  <img src="ai-generated-8273245_1280.jpg" width="600" height="300" />
 </div>
 
 
