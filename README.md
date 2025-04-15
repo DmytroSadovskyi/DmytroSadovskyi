@@ -26,7 +26,7 @@
 ---
 
 ### :technologist: About Me :
-I am a Frontend Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZydzIxaWJpMWZpYmEyeGxoYXIyOWZybHplcXAzeXN3aTNyeTV6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" width="40"> from Ukraine.
+I am a Fullstack Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZydzIxaWJpMWZpYmEyeGxoYXIyOWZybHplcXAzeXN3aTNyeTV6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" width="40"> from Ukraine.
 
 - currently I'm improving my skills in frontend and backend by learing Next.js, Node.js and other technologies
 - in the near future, I plan to learn SQL and Nest.js
