@@ -58,7 +58,5 @@ I am a Fullstack Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3Nj
 ### :bar_chart: My stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmytroSadovskyi&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
 ![Codewars](https://www.codewars.com/users/DmytroSadovskyi/badges/large)
 
